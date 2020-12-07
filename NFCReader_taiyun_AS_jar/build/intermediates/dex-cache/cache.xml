@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\NFCReader_taiyun_AS_jar\app\libs\nfctaiyun.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c23614a5f82602be335b329aeb7b8d5c7a3c28d1">
+        <dex dex="D:\NFCReader_taiyun_AS_jar\app\build\intermediates\pre-dexed\debug\nfctaiyun_28efeb632b7df30cfdf46bc0b685ec4c3679b4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NFCReader_taiyun_AS_jar\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9eee710897333267dfbfb73c58ad34b52f180ff">
+        <dex dex="D:\NFCReader_taiyun_AS_jar\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_b884625bbe7b8c528a90b90c327a66390ec29033.jar" />
+    </item>
+
+</items>
