@@ -7,5 +7,5 @@
 2、在授权码列表获取现有的appkey、appsecret信息。
 3、修改MainActivity.java文件，将appkey、appsecret替换为获取到的appkey、appsecret。
 4、运行demo 
-NFC读取二代证信息，包括：姓名、身份证号、性别、头像等。 联系方式QQ：3079716924
+NFC读取二代证信息，包括：姓名、身份证号、性别、头像等。 联系方式QQ：23600933
 
